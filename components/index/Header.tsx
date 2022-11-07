@@ -1,4 +1,5 @@
 import React from "react";
+import Contact from "./Contact";
 
 const Header = () => {
   return (
@@ -13,6 +14,7 @@ const Header = () => {
           </a>
           . Experience in Web Development, Figma, Photoshop and Illustrator.
         </p>
+        <Contact />
       </div>
       <div className="col-span-1 flex justify-center	items-center	">
         <img
