@@ -25,13 +25,13 @@ const Contact = () => {
   ];
 
   return (
-    <div className="grid grid-cols-4 text-sm">
+    <div className="grid grid-cols-2 text-sm sm:grid-cols-4 gap-y-4">
       {contacts.map((contact) => (
         <a
           href={contact.href}
           target={"_blank"}
           key={contact.name}
-          className="flex gap-x-2"
+          className="flex gap-x-2 hover:no-underline transition hover:text-blue-400"
         >
           <img
             src={contact.imageSrc}
