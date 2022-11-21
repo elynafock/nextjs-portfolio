@@ -4,12 +4,12 @@ import Skills from "../components/index/Skills";
 
 export default function Home() {
   return (
-    <main className="font-light pt-12 grid grid-cols-3">
-      <div className="max-w-3xl m-auto col-span-3 px-12 lg:col-span-2">
+    <main className="font-light grid grid-cols-3">
+      <div className="max-w-3xl pt-12 m-auto col-span-3 px-12 lg:col-span-2">
         <Header />
         <Skills />
       </div>
-      <div className="hidden col-span-1 px-12 lg:block">
+      <div className="hidden pt-12 bg-gray-50 col-span-1 px-12 lg:block">
         <NavBar />
       </div>
     </main>
