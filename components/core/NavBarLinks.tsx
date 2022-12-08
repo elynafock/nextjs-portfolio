@@ -14,8 +14,8 @@ const NavBarLinks = () => {
       href: "/about",
     },
     {
-      name: "Work",
-      href: "/work",
+      name: "Portfolio",
+      href: "/portfolio",
     },
   ];
   return (
