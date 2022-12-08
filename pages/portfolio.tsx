@@ -5,24 +5,31 @@ import Skills from "../components/index/Skills";
 const portfolio = () => {
   const projects = [
     {
-      name: "Whaleader Customer",
-      image: "portfolio.jpg",
-      description: "Logistic Company for Customer Mobile Application",
+      name: "Whaleader Logistic",
+      image: "whaleader-logistics.png",
+      description:
+        "Collect requirement, research, analyze, design prototype and collaborate with front-end developer ",
+      link: "https://play.google.com/store/apps/details?id=com.whaleader.customer",
     },
     {
-      name: "Whaleader Driver",
-      image: "portfolio.jpg",
-      description: "Logistic Company for Driver Mobile Application",
+      name: "Whaleader Logistics Driver",
+      image: "whaleader-logistics-driver.png",
+      description:
+        "Collect requirement, research, analyze, design prototype and collaborate with front-end developer",
+      link: "https://play.google.com/store/apps/details?id=com.whaleader.driver",
     },
     {
-      name: "AnnGreen",
-      image: "portfolio.jpg",
-      description: "Redesign website",
+      name: "ArnGreen",
+      image: "arngren.png",
+      description:
+        "Redesigned https://www.arngren.net/ and developed a high-fidelity website",
+      link: "https://fakearngren.netlify.app/",
     },
     {
       name: "Dusted",
-      image: "portfolio.jpg",
-      description: "Cleaning Service Mobile Application",
+      image: "dusted.png",
+      description:
+        "Take responsibility in research, design and prototyping high-fidelity design",
     },
     {
       name: "Break-fast",
