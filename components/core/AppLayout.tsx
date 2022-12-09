@@ -1,17 +1,17 @@
 import React from "react";
 import Header from "../index/Header";
+import Footer from "./Footer";
 import NavBar from "./NavBar";
 
 const AppLayout = ({ children }: any) => {
   return (
     <main className="font-light grid grid-cols-3">
-      <div className="max-w-3xl pt-12 mx-auto col-span-3 px-12 lg:col-span-2">
+      <div className="max-w-3xl pt-24 mx-auto col-span-3 px-12 lg:col-span-2 flex flex-col gap-y-4">
         <Header />
         {children}
+        <Footer />
       </div>
-      <div className="hidden py-12 bg-gray-50 col-span-1 px-12 lg:block h-screen fixed right-0">
-        <NavBar />
-      </div>
+      <NavBar />
     </main>
   );
 };
