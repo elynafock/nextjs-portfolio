@@ -19,7 +19,7 @@ const NavBarLinks = () => {
     },
   ];
   return (
-    <div>
+    <div className="flex flex-col justify-center h-full">
       {links.map((link) => (
         <li key={link.name} className={`list-none p-8 `}>
           <Link

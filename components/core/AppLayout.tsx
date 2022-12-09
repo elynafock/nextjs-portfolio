@@ -9,7 +9,7 @@ const AppLayout = ({ children }: any) => {
         <Header />
         {children}
       </div>
-      <div className="hidden pt-12 bg-gray-50 col-span-1 px-12 lg:block">
+      <div className="hidden py-12 bg-gray-50 col-span-1 px-12 lg:block h-screen fixed right-0">
         <NavBar />
       </div>
     </main>

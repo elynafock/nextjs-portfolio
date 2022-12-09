@@ -12,7 +12,7 @@ const NavBarTop = () => {
   }
 
   return (
-    <div className="flex justify-end gap-x-4">
+    <div className="flex justify-end items-start gap-x-4">
       {isDarkMode ? (
         <img
           src="/light-icon.svg"

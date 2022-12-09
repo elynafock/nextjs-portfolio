@@ -4,11 +4,10 @@ import NavBarTop from "./NavBarTop";
 
 const NavBar = () => {
   return (
-    <div className="h-screen">
+    <div className="w-full h-full grid grid-rows-3">
       <NavBarTop />
-      <div className="flex flex-col justify-center h-full">
-        <NavBarLinks />
-      </div>
+      <NavBarLinks />
+      <div></div>
     </div>
   );
 };
