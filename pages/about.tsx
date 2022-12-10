@@ -8,32 +8,19 @@ const about = () => {
         <h3 className="text-3xl font-bold py-2 mt-8 mb-4">About Me</h3>
         <div className="gap-y-4 flex flex-col">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad natus
-            blanditiis facilis consequuntur inventore quas magnam accusantium,
-            recusandae, iste quis ab tenetur. Quia fugiat iste voluptas
-            voluptatem odio atque, libero earum omnis provident ipsa commodi
-            facilis maiores, iure voluptatibus saepe non dignissimos inventore
-            harum dolorem nostrum tempore sed debitis. Quaerat quis praesentium
-            minus vero ea culpa soluta consectetur nihil minima? Architecto
-            corporis exercitationem iste amet et ab officia explicabo ullam
-            dolorem laborum cupiditate tempore expedita vitae nesciunt
-            doloremque tempora, odit, dicta quo perferendis obcaecati quaerat
-            natus eaque nam sit. Itaque perspiciatis totam exercitationem dolor
-            veritatis, sapiente dignissimos distinctio ipsum accusantium.
+            Hey there! My name is Elyna and I am a Year 3 student from UNIMAS
+            major in Software Engineering. I’m passionate in creating beaufitul
+            interfaces and implementing them with my technical skills.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad natus
-            blanditiis facilis consequuntur inventore quas magnam accusantium,
-            recusandae, iste quis ab tenetur. Quia fugiat iste voluptas
-            voluptatem odio atque, libero earum omnis provident ipsa commodi
-            facilis maiores, iure voluptatibus saepe non dignissimos inventore
-            harum dolorem nostrum tempore sed debitis. Quaerat quis praesentium
-            minus vero ea culpa soluta consectetur nihil minima? Architecto
-            corporis exercitationem iste amet et ab officia explicabo ullam
-            dolorem laborum cupiditate tempore expedita vitae nesciunt
-            doloremque tempora, odit, dicta quo perferendis obcaecati quaerat
-            natus eaque nam sit. Itaque perspiciatis totam exercitationem dolor
-            veritatis, sapiente dignissimos distinctio ipsum accusantium.
+            I’ve learned C, C++, Java, HTML, CSS, Javascript and PHP in my
+            university journey. For side projects, I’ve used Python, Next.js,
+            React.js, Vue.js, Nuxt.js, Node.js, Typescript, Tailwind, etc.
+          </p>
+          <p>
+            I also had the privilege to learn Adobe Photoshop and Illustrator in
+            my youth. Later, I also discovered my interest in digital
+            illustration and UI/UX design that paved my way in designing.
           </p>
         </div>
       </article>
