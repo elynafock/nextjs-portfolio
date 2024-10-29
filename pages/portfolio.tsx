@@ -5,6 +5,20 @@ import Skills from "../components/index/Skills";
 const portfolio = () => {
   const projects = [
     {
+      name: "Un Poco Loco",
+      image: "unpocoloco.png",
+      description:
+        "This website is an improved version of Elyna's Collection as new features are added using Supabase",
+      link: "https://pocoloco.vercel.app/",
+    },
+    {
+      name: "Elyna's Collection",
+      image: "elynas-collection.png",
+      description:
+        "This website is built to store digital illustrations drawn using SveletKit and Firebase",
+      link: "https://elynascollection.netlify.app/",
+    },
+    {
       name: "Whaleader Logistic",
       image: "whaleader-logistics.png",
       description:
@@ -38,13 +52,6 @@ const portfolio = () => {
       description:
         "Take responsibility in research, design and prototyping high-fidelity design",
       link: "https://www.figma.com/file/N2xdUoNKSqprC3Kg0MpT9Y/Intelligent-System-Assignment?node-id=0%3A1&t=23peKe9MlEtrAKc0-0",
-    },
-    {
-      name: "Elyna's Collection",
-      image: "elynas-collection.png",
-      description:
-        "This website is built to store digital illustrations drawn using SveletKit and Firebase",
-      link: "https://elynascollection.netlify.app/",
     },
   ];
   return (

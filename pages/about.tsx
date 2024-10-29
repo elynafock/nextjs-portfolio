@@ -8,8 +8,8 @@ const about = () => {
         <h3 className="text-3xl font-bold py-2 mt-8 mb-4">About Me</h3>
         <div className="gap-y-4 flex flex-col">
           <p>
-            Hey there! My name is Elyna and I am a Year 3 student from UNIMAS
-            major in Software Engineering. I’m passionate in creating beaufitul
+            Hey there! My name is Elyna and I am a fresh grad from UNIMAS major
+            in Software Engineering. I’m passionate in creating beaufitul
             interfaces and implementing them with my technical skills.
           </p>
           <p>

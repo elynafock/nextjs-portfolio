@@ -14,7 +14,7 @@ a {
   text-decoration: none;
   font-weight: 500;
 }
-a:hover { 
+a:hover {
   text-decoration: underline;
 }
 
@@ -22,12 +22,12 @@ a:hover {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
+@media() {
   html {
     color-scheme: dark;
   }
   body {
     color: white;
-    background: black;
+    background: white;
   }
 }
