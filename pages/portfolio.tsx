@@ -6,7 +6,7 @@ const portfolio = () => {
   const projects = [
     {
       name: "Un Poco Loco",
-      image: "unpocoloco.png",
+      image: "pocoloco.png",
       description:
         "This website is an improved version of Elyna's Collection as new features are added using Supabase",
       link: "https://pocoloco.vercel.app/",
