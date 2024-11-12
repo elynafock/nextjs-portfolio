@@ -18,20 +18,20 @@ const portfolio = () => {
         "This website is built to store digital illustrations drawn using SveletKit and Firebase",
       link: "https://elynascollection.netlify.app/",
     },
-    {
-      name: "Whaleader Logistic",
-      image: "whaleader-logistics.png",
-      description:
-        "Collect requirement, research, analyze, design prototype and collaborate with front-end developer ",
-      link: "https://play.google.com/store/apps/details?id=com.whaleader.customer",
-    },
-    {
-      name: "Whaleader Logistics Driver",
-      image: "whaleader-logistics-driver.png",
-      description:
-        "Collect requirement, research, analyze, design prototype and collaborate with front-end developer",
-      link: "https://play.google.com/store/apps/details?id=com.whaleader.driver",
-    },
+    // {
+    //   name: "Whaleader Logistic",
+    //   image: "whaleader-logistics.png",
+    //   description:
+    //     "Collect requirement, research, analyze, design prototype and collaborate with front-end developer ",
+    //   link: "https://play.google.com/store/apps/details?id=com.whaleader.customer",
+    // },
+    // {
+    //   name: "Whaleader Logistics Driver",
+    //   image: "whaleader-logistics-driver.png",
+    //   description:
+    //     "Collect requirement, research, analyze, design prototype and collaborate with front-end developer",
+    //   link: "https://play.google.com/store/apps/details?id=com.whaleader.driver",
+    // },
     {
       name: "ArnGreen",
       image: "arngren.png",
