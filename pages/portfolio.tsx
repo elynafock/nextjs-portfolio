@@ -25,6 +25,13 @@ const portfolio = () => {
         "This figma link contains the wireframes and prototype design, style guide and component of this project.",
       link: "https://www.figma.com/design/3TILgXAbQbxpUmaAZ6GCsL/FYP---Moodle-Application?node-id=203-4&t=PPACVShW95Qy0tdd-1",
     },
+    {
+      name: "Dusted",
+      image: "dusted.png",
+      description:
+        "Take responsibility in research, design and prototyping high-fidelity design",
+      link: "https://www.figma.com/file/m0zJK2QmB4NDgyExr95Vls/Untitled?node-id=0%3A1&t=Over73eJSJCMJGsa-0",
+    },
     // {
     //   name: "Whaleader Logistic",
     //   image: "whaleader-logistics.png",
@@ -45,13 +52,6 @@ const portfolio = () => {
       description:
         "Redesigned https://www.arngren.net/ and developed a high-fidelity website",
       link: "https://fakearngren.netlify.app/",
-    },
-    {
-      name: "Dusted",
-      image: "dusted.png",
-      description:
-        "Take responsibility in research, design and prototyping high-fidelity design",
-      link: "https://www.figma.com/file/m0zJK2QmB4NDgyExr95Vls/Untitled?node-id=0%3A1&t=Over73eJSJCMJGsa-0",
     },
     {
       name: "Break-Fast",
