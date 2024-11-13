@@ -12,7 +12,8 @@ const Header = () => {
           <a href="https://www.unimas.my/" target={"_blank"}>
             UNIMAS
           </a>
-          . Experience in Web Development, Figma, Photoshop and Illustrator.
+          . Experience in Web Development, Mobile Development, Figma, Photoshop
+          and Illustrator.
         </p>
         <Contact />
       </div>
