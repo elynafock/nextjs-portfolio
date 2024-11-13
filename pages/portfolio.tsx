@@ -18,6 +18,13 @@ const portfolio = () => {
         "This website is built to store digital illustrations drawn using SveletKit and Firebase",
       link: "https://elynascollection.netlify.app/",
     },
+    {
+      name: "FYP Project: Redesign Moodle Mobile Application (Figma Design)",
+      image: "moodleposter.png",
+      description:
+        "This figma link contains the wireframes and prototype design, style guide and component of this project.",
+      link: "https://www.figma.com/design/3TILgXAbQbxpUmaAZ6GCsL/FYP---Moodle-Application?node-id=203-4&t=PPACVShW95Qy0tdd-1",
+    },
     // {
     //   name: "Whaleader Logistic",
     //   image: "whaleader-logistics.png",

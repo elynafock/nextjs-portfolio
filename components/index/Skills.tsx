@@ -6,20 +6,12 @@ const Skills = () => {
       imageSrc: "/reactjs-icon.svg",
     },
     {
-      name: "VueJS",
-      imageSrc: "/vuejs-icon.svg",
+      name: "React Native",
+      imageSrc: "/reactjs-icon.svg",
     },
     {
       name: "NextJS",
       imageSrc: "/nextjs-icon.svg",
-    },
-    {
-      name: "NuxtJS",
-      imageSrc: "/nuxtjs-icon.svg",
-    },
-    {
-      name: "NodeJS",
-      imageSrc: "/nodejs-icon.svg",
     },
     {
       name: "Typescript",
@@ -28,6 +20,18 @@ const Skills = () => {
     {
       name: "Vercel",
       imageSrc: "/vercel-icon.svg",
+    },
+    {
+      name: "VueJS",
+      imageSrc: "/vuejs-icon.svg",
+    },
+    {
+      name: "NuxtJS",
+      imageSrc: "/nuxtjs-icon.svg",
+    },
+    {
+      name: "NodeJS",
+      imageSrc: "/nodejs-icon.svg",
     },
     {
       name: "Figma",
