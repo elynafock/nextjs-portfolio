@@ -8,19 +8,22 @@ const about = () => {
         <h3 className="text-3xl font-bold py-2 mt-8 mb-4">About Me</h3>
         <div className="gap-y-4 flex flex-col">
           <p>
-            Hey there! My name is Elyna and I am a fresh grad from UNIMAS major
-            in Software Engineering. I’m passionate in creating beaufitul
-            interfaces and implementing them with my technical skills.
+            Hey there! I’m Elyna — I started out as a frontend developer because
+            I love making things look good and feel right. But somewhere along
+            the way, I blinked and suddenly I was spinning up Docker containers,
+            managing Redis, and writing APIs in Express. So, I guess you could
+            call me a frontend dev turned part-time backend adventurer.
           </p>
           <p>
-            I’ve learned C, C++, Java, HTML, CSS, Javascript and PHP in my
-            university journey. For side projects, I’ve used Python, Next.js,
-            React.js, Vue.js, Nuxt.js, Node.js, Typescript, Tailwind, etc.
+            I enjoy turning ideas into clean, functional apps — and I get a
+            weird sense of satisfaction from turning ideas into real, working
+            things. I’ve worked with React.js and Vue.js on the frontend, and
+            I’ve been steadily building up my backend muscle too.
           </p>
           <p>
-            I also had the privilege to learn Adobe Photoshop and Illustrator in
-            my youth. Later, I also discovered my interest in digital
-            illustration and UI/UX design that paved my way in designing.
+            When I’m not coding, you’ll probably find me café hopping, reading,
+            or just enjoying a good cup of coffee (or Matcha, that's my
+            favourite).
           </p>
         </div>
       </article>

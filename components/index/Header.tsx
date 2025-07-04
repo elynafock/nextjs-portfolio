@@ -6,14 +6,9 @@ const Header = () => {
     <header className="grid grid-cols-4 gap-4">
       <div className="col-span-3">
         <h1 className="text-5xl font-bold py-2">Elyna Fock</h1>
-        <h2>Web Developer | UI/UX Designer | Fresh Grad</h2>
+        <h2>Software Engineer</h2>
         <p className="py-4">
-          Software Engineer graduate from{" "}
-          <a href="https://www.unimas.my/" target={"_blank"}>
-            UNIMAS
-          </a>
-          . Experience in Web Development, Mobile Development, Figma, Photoshop
-          and Illustrator.
+          Everything will be ok in the end, if it's not ok, it's not the end.
         </p>
         <Contact />
       </div>

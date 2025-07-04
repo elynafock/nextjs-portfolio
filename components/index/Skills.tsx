@@ -2,6 +2,22 @@ import React from "react";
 const Skills = () => {
   const skills = [
     {
+      name: "Git",
+      imageSrc: "/git.svg",
+    },
+    {
+      name: "Tailwind",
+      imageSrc: "/tailwind-icon.svg",
+    },
+    {
+      name: "Typescript",
+      imageSrc: "/typescript-icon.svg",
+    },
+    {
+      name: "NodeJS",
+      imageSrc: "/nodejs-icon.svg",
+    },
+    {
       name: "ReactJS",
       imageSrc: "/reactjs-icon.svg",
     },
@@ -14,14 +30,6 @@ const Skills = () => {
       imageSrc: "/nextjs-icon.svg",
     },
     {
-      name: "Typescript",
-      imageSrc: "/typescript-icon.svg",
-    },
-    {
-      name: "Vercel",
-      imageSrc: "/vercel-icon.svg",
-    },
-    {
       name: "VueJS",
       imageSrc: "/vuejs-icon.svg",
     },
@@ -30,28 +38,24 @@ const Skills = () => {
       imageSrc: "/nuxtjs-icon.svg",
     },
     {
-      name: "NodeJS",
-      imageSrc: "/nodejs-icon.svg",
+      name: "ExpressJS",
+      imageSrc: "/express-js.svg",
+    },
+    {
+      name: "Docker",
+      imageSrc: "/docker.svg",
+    },
+    {
+      name: "Redis",
+      imageSrc: "/redis.svg",
+    },
+    {
+      name: "MySQL",
+      imageSrc: "/mysql.svg",
     },
     {
       name: "Figma",
       imageSrc: "/figma-icon.svg",
-    },
-    {
-      name: "Photoshop",
-      imageSrc: "/photoshop-icon.svg",
-    },
-    {
-      name: "Illustrator",
-      imageSrc: "/illustrator-icon.svg",
-    },
-    {
-      name: "Procreate",
-      imageSrc: "/procreate-icon.png",
-    },
-    {
-      name: "Tailwind",
-      imageSrc: "/tailwind-icon.svg",
     },
   ];
 
