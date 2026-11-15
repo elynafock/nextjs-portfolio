@@ -6,6 +6,22 @@ const Skills = () => {
       imageSrc: "/git.svg",
     },
     {
+      name: "Python",
+      imageSrc: "/python-icon.svg",
+    },
+    {
+      name: "Selenium",
+      imageSrc: "/selenium-icon.svg",
+    },
+    {
+      name: "PostgreSQL",
+      imageSrc: "/postgresql-icon.svg",
+    },
+    {
+      name: "MySQL",
+      imageSrc: "/mysql.svg",
+    },
+    {
       name: "Tailwind",
       imageSrc: "/tailwind-icon.svg",
     },
@@ -49,9 +65,10 @@ const Skills = () => {
       name: "Redis",
       imageSrc: "/redis.svg",
     },
+
     {
-      name: "MySQL",
-      imageSrc: "/mysql.svg",
+      name: "Java",
+      imageSrc: "/java-icon.svg",
     },
     {
       name: "Figma",
